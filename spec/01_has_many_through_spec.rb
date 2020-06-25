@@ -196,3 +196,5 @@ describe "Object relationships" do
     end
   end
 end
+
+#binding.pry
